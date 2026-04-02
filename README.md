@@ -1,4 +1,4 @@
-# Algoritma-Struktur-Data-Pt.4
+# Algoritma & Struktur Data
 Tugas & Latihan Pertemuan 4
 
 Nama: Ade Fahrijal
